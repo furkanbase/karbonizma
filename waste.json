@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "PET",
-    "explain": "PET (Polietilen Tereftalat), genellikle su şişeleri, gıda ambalajları ve tekstil ürünlerinde kullanılan bir plastik türüdür. Geri dönüştürüldüğünde, enerji tasarrufu sağlar ve çevresel etkileri azaltır.",
+    "explain": "Genellikle su şişeleri, gıda ambalajları ve tekstil ürünlerinde kullanılan bir plastik türüdür. Geri dönüştürüldüğünde, enerji tasarrufu sağlar ve çevresel etkileri azaltır.",
     "persentage": "95%",
     "carbonRatio": 50,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
@@ -10,7 +10,7 @@
   {
     "id": 1,
     "name": "HDPE / Polietilen",
-    "explain": "HDPE (Yüksek Yoğunluklu Polietilen), dayanıklı ve güçlü bir plastik türüdür. Genellikle şişeler, borular ve plastik torbalar gibi ürünlerde kullanılır. Geri dönüşümü kolaydır ve çevre dostudur.",
+    "explain": "Yüksek Yoğunluklu Polietilen, dayanıklı ve güçlü bir plastik türüdür. Genellikle şişeler, borular ve plastik torbalar gibi ürünlerde kullanılır. Geri dönüşümü kolaydır ve çevre dostudur.",
     "persentage": "85%",
     "carbonRatio": 60,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/hdpe.png"
@@ -18,38 +18,38 @@
   {
     "id": 2,
     "name": "PP / Polipropilen",
-    "explain": "PP (Polipropilen), dayanıklı ve hafif bir plastik malzemedir. Plastik kaplar, gıda ambalajları ve çeşitli endüstriyel ürünlerde kullanılır. Geri dönüştürüldüğünde enerji tasarrufu sağlar.",
+    "explain": "Polipropilen, dayanıklı ve hafif bir plastik malzemedir. Plastik kaplar, poşetler, gıda ambalajları ve çeşitli endüstriyel ürünlerde kullanılır. Geri dönüştürüldüğünde enerji tasarrufu sağlar.",
     "persentage": "80%",
     "carbonRatio": 70,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pp.png"
   },
   {
     "id": 3,
-    "name": "Cam Şişe",
-    "explain": "Cam şişeler geri dönüştürülebilir ve çevre dostudur. Cam, doğal malzemelerden yapıldığı için geri dönüşümü, diğer malzemelere göre daha az enerji gerektirir.",
+    "name": "Cam Ürünler",
+    "explain": "Geri dönüştürülebilir ve çevre dostudur. Cam, doğal malzemelerden yapıldığı için geri dönüşümü, diğer malzemelere göre daha az enerji gerektirir.",
     "persentage": "90%",
     "carbonRatio": 30,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/cam.png"
   },
   {
     "id": 4,
-    "name": "Bakır",
-    "explain": "Bakır, geri dönüştürülebilen ve değerli bir metal olup, enerji tasarrufu sağlar. Elektrik kabloları ve makinelerde yaygın olarak kullanılır.",
+    "name": "Bakır Malzemeler",
+    "explain": "Geri dönüştürülebilen ve değerli bir metal olup, enerji tasarrufu sağlar. Elektrik kabloları ve makinelerde yaygın olarak kullanılır.",
     "persentage": "95%",
     "carbonRatio": 40,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/bakir.png"
   },
   {
     "id": 5,
-    "name": "Alüminyum",
-    "explain": "Alüminyum, hafif ve dayanıklı bir metaldir. Geri dönüşümü oldukça verimlidir ve enerji tasarrufu sağlar. Alüminyum kutular ve folyo, yaygın geri dönüştürülen ürünlerdir.",
+    "name": "Alüminyum Malzemeler",
+    "explain": "Hafif ve dayanıklı bir metaldir. Geri dönüşümü çok verimlidir ve enerji tasarrufu sağlar. Alüminyum kutular ve folyo, yaygın geri dönüştürülen ürünlerdir.",
     "persentage": "90%",
     "carbonRatio": 50,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/ali.png"
   },
   {
     "id": 6,
-    "name": "Çelik",
+    "name": "Çelik Malzemeler",
     "explain": "Çelik, yüksek dayanıklılığa sahip bir metal olup geri dönüştürülebilir. Geri dönüşümü sırasında büyük enerji tasarrufu sağlanır ve çevresel etkileri azaltır.",
     "persentage": "80%",
     "carbonRatio": 60,
@@ -57,16 +57,16 @@
   },
   {
     "id": 7,
-    "name": "Gazete",
-    "explain": "Gazete kağıtları geri dönüştürülebilir ve yeniden kullanılabilir. Gazetelerin geri dönüşümü, doğal kaynakların korunmasına ve atıkların azaltılmasına yardımcı olur.",
+    "name": "Gazete Kağıdı",
+    "explain": "Geri dönüştürülebilir ve yeniden kullanılabilirler. Gazetelerin geri dönüşümü, doğal kaynakların korunmasına ve atıkların azaltılmasına yardımcı olur.",
     "persentage": "75%",
     "carbonRatio": 20,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/gazete.png"
   },
   {
     "id": 8,
-    "name": "Karton",
-    "explain": "Karton kutular, geri dönüştürülebilir ve yeniden kullanılabilir. Karton geri dönüşümü, enerji tasarrufu sağlar ve atıkları azaltır.",
+    "name": "Karton Koliler",
+    "explain": "Geri dönüştürülebilir ve yeniden kullanılabilir. Karton geri dönüşümü, enerji tasarrufu sağlar ve atıkları azaltır.",
     "persentage": "85%",
     "carbonRatio": 40,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/karton.png"

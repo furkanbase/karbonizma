@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "tokenID": 1000,
     "name": "PET İçeren Ürün",
     "category": "Plastik",
     "explain": "Genellikle su şişeleri, gıda ambalajları ve tekstil ürünlerinde kullanılan bir plastik türüdür. Geri dönüştürüldüğünde, enerji tasarrufu sağlar ve çevresel etkileri azaltır.",
@@ -10,6 +11,7 @@
   },
   {
     "id": 1,
+    "tokenID": 1001,
     "name": "HDPE İçeren Ürün",
     "category": "Plastik",
     "explain": "Yüksek Yoğunluklu Polietilen, dayanıklı ve güçlü bir plastik türüdür. Genellikle şişeler, borular ve plastik torbalar gibi ürünlerde kullanılır. Geri dönüşümü kolaydır ve çevre dostudur.",
@@ -19,6 +21,7 @@
   },
   {
     "id": 2,
+    "tokenID": 1002,
     "name": "PP İçeren Ürün",
     "category": "Plastik",
     "explain": "Polipropilen, dayanıklı ve hafif bir plastik malzemedir. Plastik kaplar, poşetler, gıda ambalajları ve çeşitli endüstriyel ürünlerde kullanılır. Geri dönüştürüldüğünde enerji tasarrufu sağlar.",
@@ -28,6 +31,7 @@
   },
   {
     "id": 3,
+    "tokenID": 1003,
     "name": "Cam Ürün",
     "category": "Cam",
     "explain": "Geri dönüştürülebilir ve çevre dostudur. Cam, doğal malzemelerden yapıldığı için geri dönüşümü, diğer malzemelere göre daha az enerji gerektirir.",
@@ -37,6 +41,7 @@
   },
   {
     "id": 4,
+    "tokenID": 1004,
     "name": "Bakır Malzeme",
     "category": "Metal",
     "explain": "Geri dönüştürülebilen ve değerli bir metal olup, enerji tasarrufu sağlar. Elektrik kabloları ve makinelerde yaygın olarak kullanılır.",
@@ -46,6 +51,7 @@
   },
   {
     "id": 5,
+    "tokenID": 1005,
     "name": "Alüminyum Malzeme",
     "category": "Metal",
     "explain": "Hafif ve dayanıklı bir metaldir. Geri dönüşümü çok verimlidir ve enerji tasarrufu sağlar. Alüminyum kutular ve folyo, yaygın geri dönüştürülen ürünlerdir.",
@@ -55,6 +61,7 @@
   },
   {
     "id": 6,
+    "tokenID": 1006,
     "name": "Çelik Malzeme",
     "category": "Metal",
     "explain": "Çelik, yüksek dayanıklılığa sahip bir metal olup geri dönüştürülebilir. Geri dönüşümü sırasında büyük enerji tasarrufu sağlanır ve çevresel etkileri azaltır.",
@@ -64,6 +71,7 @@
   },
   {
     "id": 7,
+    "tokenID": 1007,
     "name": "Gazete Kağıdı",
     "category": "Kağıt",
     "explain": "Geri dönüştürülebilir ve yeniden kullanılabilirler. Gazetelerin geri dönüşümü, doğal kaynakların korunmasına ve atıkların azaltılmasına yardımcı olur.",
@@ -73,11 +81,22 @@
   },
   {
     "id": 8,
+    "tokenID": 1008,
     "name": "Karton Koli",
     "category": "Kağıt",
     "explain": "Geri dönüştürülebilir ve yeniden kullanılabilir. Karton geri dönüşümü, enerji tasarrufu sağlar ve atıkları azaltır.",
     "persentage": 85,
     "carbonRatio": 40,
     "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/karton.png"
+  },
+  {
+    "id": 9,
+    "tokenID": 1009,
+    "name": "Batarya veya Pil",
+    "category": "Diğer",
+    "explain": "Bataryalar ve piller, doğru şekilde geri dönüştürülmediğinde çevreye zarar verebilir. Geri dönüşüm, bu tehlikeleri önler, enerji tasarrufu sağlar ve doğal kaynakları korur."
+    "persentage": 70,
+    "carbonRatio": 51,
+    "image": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pil.png"
   }
 ]

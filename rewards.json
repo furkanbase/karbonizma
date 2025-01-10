@@ -4,31 +4,31 @@
     "tokenID": "997",
     "compare": 1000,
     "text": "1000 Eko Puanı Topla.",
-    "notCompletedImageUrl":"",
-    "completedImageUrl":""
+    "notCompletedImageUrl":"wwwwww",
+    "completedImageUrl":"wwwwww"
   },
   {
     "id": 1,
     "tokenID": "998",
     "compare": 750,
     "text": "750 CO₂ Kazan.",
-    "notCompletedImageUrl":"",
-    "completedImageUrl":""
+    "notCompletedImageUrl":"wwwwww",
+    "completedImageUrl":"wwwwww"
   },
   {
     "id": 2,
     "tokenID": "999",
     "compare": 1000,
     "text": "15 Dönüşüm yap.",
-    "notCompletedImageUrl":"",
-    "completedImageUrl":""
+    "notCompletedImageUrl":"wwwwww",
+    "completedImageUrl":"wwwwww"
   },
   {
     "id": 3,
     "tokenID": "1000",
     "compare": 1000,
     "text": "50 Kg Pet Ürün Dönüştür.",
-    "notCompletedImageUrl":"",
-    "completedImageUrl":""
+    "notCompletedImageUrl":"wwwwww",
+    "completedImageUrl":"wwwwww"
   }
 ]

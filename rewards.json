@@ -5,7 +5,7 @@
     "compare": 1000,
     "text": "1000 Eko Puanı Topla.",
     "notCompletedImageUrl":"",
-    "completedImageUrl":"",
+    "completedImageUrl":""
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "compare": 750,
     "text": "750 CO₂ Kazan.",
     "notCompletedImageUrl":"",
-    "completedImageUrl":"",
+    "completedImageUrl":""
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "compare": 1000,
     "text": "15 Dönüşüm yap.",
     "notCompletedImageUrl":"",
-    "completedImageUrl":"",
+    "completedImageUrl":""
   },
   {
     "id": 3,
@@ -29,6 +29,6 @@
     "compare": 1000,
     "text": "50 Kg Pet Ürün Dönüştür.",
     "notCompletedImageUrl":"",
-    "completedImageUrl":"",
-  },
+    "completedImageUrl":""
+  }
 ]

@@ -1,13 +1,34 @@
 [
   {
-    "devName": "Furkan Mülayim",
-    "devTitle": "Mobil Application Developer",
-    "devComm": "furkanmulayim80@gmail.com",
-    "devGithub": "https://github.com/furkanmulayim",
-    "devGithubIco": "www",
-    "devLinkedin": "https://www.linkedin.com/in/furkanmulayim/",
-    "devLinkedinIcon": "wwww",
-    "kvkk_title": "KVKK ve Gizlilik Hakkında",
-    "kvkk": "Buraya KVKK maddeleri yazacak"
+    "id": 0,
+    "tokenID": "997",
+    "compare": 1000,
+    "text": "1000 Eko Puanı Topla.",
+    "notCompletedImageUrl": "wwwwww",
+    "completedImageUrl": "wwwwww"
+  },
+  {
+    "id": 1,
+    "tokenID": "998",
+    "compare": 750,
+    "text": "750 CO₂ Kazan.",
+    "notCompletedImageUrl": "wwwwww",
+    "completedImageUrl": "wwwwww"
+  },
+  {
+    "id": 2,
+    "tokenID": "999",
+    "compare": 1000,
+    "text": "15 Dönüşüm yap.",
+    "notCompletedImageUrl": "wwwwww",
+    "completedImageUrl": "wwwwww"
+  },
+  {
+    "id": 3,
+    "tokenID": "1000",
+    "compare": 1000,
+    "text": "50 Kg Pet Ürün Dönüştür.",
+    "notCompletedImageUrl": "wwwwww",
+    "completedImageUrl": "wwwwww"
   }
 ]

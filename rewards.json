@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "tokenType": "statis",
     "tokenID": "997",
     "compare": 1000,
     "text": "1000 Eko Puanı Topla.",
@@ -9,6 +10,7 @@
   },
   {
     "id": 1,
+    "tokenType": "statis",
     "tokenID": "998",
     "compare": 750,
     "text": "750 CO₂ Kazan.",
@@ -17,6 +19,7 @@
   },
   {
     "id": 2,
+    "tokenType": "statis",
     "tokenID": "999",
     "compare": 1000,
     "text": "15 Dönüşüm yap.",
@@ -25,6 +28,7 @@
   },
   {
     "id": 3,
+    "tokenType": "sumweig",
     "tokenID": "1000",
     "compare": 1000,
     "text": "50 Kg Pet Ürün Dönüştür.",

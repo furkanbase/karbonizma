@@ -5,8 +5,8 @@
     "tokenID": "997",
     "compare": 100,
     "text": "1000 Eko Puanı Topla.",
-    "notCompletedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/pet.png",
-    "completedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/ali.png"
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   },
   {
     "id": 1,
@@ -14,8 +14,8 @@
     "tokenID": "998",
     "compare": 300,
     "text": "750 CO₂ Kazan.",
-    "notCompletedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/pet.png",
-    "completedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/ali.png"
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   },
   {
     "id": 2,
@@ -23,8 +23,8 @@
     "tokenID": "999",
     "compare": 200,
     "text": "15 Dönüşüm yap.",
-    "notCompletedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/pet.png",
-    "completedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/ali.png"
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   },
   {
     "id": 3,
@@ -32,7 +32,7 @@
     "tokenID": "1000",
     "compare": 30,
     "text": "50 Kg Pet Ürün Dönüştür.",
-    "notCompletedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/pet.png",
-    "completedImageUrl": "https://github.com/furkanbase/karbonizma/blob/main/images/ali.png"
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   }
 ]

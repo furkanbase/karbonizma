@@ -16,14 +16,14 @@
   {
     "tokenType": "eco",
     "compare": 200,
-    "text": "15 Dönüşüm yap.",
+    "text": "200 Eko puanı topla.",
     "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
     "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   },
   {
     "tokenType": "re",
     "compare": 30,
-    "text": "50 Kg Pet Ürün Dönüştür.",
+    "text": "15 Dönüşüm yap.",
     "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
     "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   }

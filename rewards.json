@@ -1,35 +1,27 @@
 [
   {
-    "id": 0,
     "tokenType": "statis",
-    "tokenID": "997",
     "compare": 100,
     "text": "1000 Eko Puanı Topla.",
     "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
     "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   },
   {
-    "id": 1,
     "tokenType": "statis",
-    "tokenID": "998",
     "compare": 300,
     "text": "750 CO₂ Kazan.",
     "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
     "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   },
   {
-    "id": 2,
     "tokenType": "eco",
-    "tokenID": "999",
     "compare": 200,
     "text": "15 Dönüşüm yap.",
     "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",
     "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png"
   },
   {
-    "id": 3,
     "tokenType": "re",
-    "tokenID": "1000",
     "compare": 30,
     "text": "50 Kg Pet Ürün Dönüştür.",
     "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/images/pet.png",

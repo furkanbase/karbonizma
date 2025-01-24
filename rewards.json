@@ -3,105 +3,105 @@
     "tokenType": "re",
     "compare": 1,
     "text": "İlk Dönüşümünü yap",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reno.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reok.png"
   },
   {
     "tokenType": "re",
     "compare": 5,
     "text": "5 Dönüşüm yap",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reno.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reok.png"
   },
   {
     "tokenType": "co",
     "compare": 10,
     "text": "10 CO₂ Kazancı elde et",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cono.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cook.png"
   },
   {
     "tokenType": "eco",
     "compare": 20,
     "text": "20 Eko puanı kazan",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/econo.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/ecook.png"
   },
   {
     "tokenType": "re",
     "compare": 25,
     "text": "25 Dönüşüm yap",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reno.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reok.png"
   },
   {
     "tokenType": "re",
     "compare": 150,
     "text": "150 Dönüşüm yap",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reno.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reok.png"
   },
   {
     "tokenType": "co",
     "compare": 200,
     "text": "200 CO₂ Kazancı elde et",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cono.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cook.png"
   },
   {
     "tokenType": "eco",
     "compare": 250,
     "text": "250 Eko puanı kazan",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/econo.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/ecook.png"
   },
   {
     "tokenType": "eco",
     "compare": 500,
     "text": "500 Eko puanı kazan",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/econo.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/ecook.png"
   },
   {
     "tokenType": "co",
     "compare": 600,
     "text": "600 CO₂ Kazancı elde et",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cono.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cook.png"
   },
   {
     "tokenType": "re",
     "compare": 1000,
     "text": "1000 Dönüşüm yap",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reno.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reok.png"
   },
   {
     "tokenType": "co",
     "compare": 1000,
     "text": "1000 CO₂ Kazancı elde et",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cono.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cook.png"
   },
   {
     "tokenType": "eco",
     "compare": 1000,
     "text": "1000 Eko puanı kazan",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/econo.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/ecook.png"
   },
   {
     "tokenType": "eco",
     "compare": 9000,
     "text": "9000 Eko puanı kazan",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/econo.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/ecook.png"
   },
   {
     "tokenType": "co",
     "compare": 5000,
     "text": "5000 10 CO₂ Kazancı elde et",
-    "notCompletedImageUrl": "",
-    "completedImageUrl": ""
+    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cono.png",
+    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/cook.png"
   }
 ]

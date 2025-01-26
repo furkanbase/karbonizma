@@ -1,13 +1,6 @@
 [
   {
     "tokenType": "re",
-    "compare": 1,
-    "text": "İlk Dönüşümünü yap",
-    "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reno.png",
-    "completedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reok.png"
-  },
-  {
-    "tokenType": "re",
     "compare": 5,
     "text": "5 Dönüşüm yap",
     "notCompletedImageUrl": "https://raw.githubusercontent.com/furkanbase/karbonizma/refs/heads/main/rewico/reno.png",
